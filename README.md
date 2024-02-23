@@ -26,5 +26,5 @@ ________________________________________________________________________________
 </p>
 
 
-</p>
+<p align="center">
 <img src=https://capsule-render.vercel.app/api?type=waving&height=149&color=gradient&section=footer&reversal=true
