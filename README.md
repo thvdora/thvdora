@@ -9,14 +9,7 @@
 <p style="text-align: center;">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20there!&animation=fadeIn&type=waving&color=gradient&height=100">
 </p>
-<table style="margin-left:auto;margin-right:auto;">
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/nbY1wpPSoXPRieneoA/giphy.gif" width="55">
-    </td>
-  </tr>
-</table>
-
+<img src="https://media.giphy.com/media/nbY1wpPSoXPRieneoA/giphy.gif" width="55" style="display: block; margin: 0 auto;">
 <hr>
 
 <h3>I'm Isadora, welcome to my GitHub!</h3>
