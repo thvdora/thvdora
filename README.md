@@ -9,8 +9,9 @@
 <p style="text-align: center;">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20there!&animation=fadeIn&type=waving&color=gradient&height=100">
 </p>
-<img src="https://media.giphy.com/media/nbY1wpPSoXPRieneoA/giphy.gif" width="55">
-
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/nbY1wpPSoXPRieneoA/giphy.gif" width="55">
+</div>
 <hr>
 
 <h3>I'm Isadora, welcome to my GitHub!</h3>
