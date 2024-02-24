@@ -3,11 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Isadora's GitHub Page</title>
 </head>
 <body>
 
-<p style="text-align: center;">
+< style="text-align: center;">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20there!&animation=fadeIn&type=waving&color=gradient&height=100">
   <img src="https://media.giphy.com/media/nbY1wpPSoXPRieneoA/giphy.gif" width="55">
 </p>
