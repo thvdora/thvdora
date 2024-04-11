@@ -11,7 +11,7 @@
     </head>
 
   <body>
-      <img src="https://media.giphy.com/media/nbY1wpPSoXPRieneoA/giphy.gif" width="70">
+      <img src="https://media.giphy.com/media/ygDc7gYSUTHXAtvPcO/giphy.gif" width="70">
 
   <h3>I'm Isadora, welcome to my GitHub!</h3>
   <p>👾 Currently starting on programming and exploring new technologies.</p>
