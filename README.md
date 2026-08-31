@@ -14,7 +14,7 @@
       <img src="https://media.giphy.com/media/wQ1CayXeOItrZw2orm/giphy.gif" width="70">
 
   <h3>I'm Isadora, welcome to my GitHub!</h3>
-  <p>🎓 Computer Science student @ FIAP.</p>
+  <p>🎓 Computer Science student @ FIAP</p>
 
   <hr>
 
