@@ -31,7 +31,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/VS%20CODE-FFF7FB?style=for-the-badge&logo=visualstudiocode&logoColor=D98FB3&labelColor=FFF7FB" alt="VS Code"/>
+<img src="./assets/vscode-badge.svg" height="28" alt="VS Code"/>
 <img src="https://img.shields.io/badge/NOTION-FFF7FB?style=for-the-badge&logo=notion&logoColor=D98FB3&labelColor=FFF7FB" alt="Notion"/>
 <img src="https://img.shields.io/badge/PYCHARM-FFF7FB?style=for-the-badge&logo=pycharm&logoColor=D98FB3&labelColor=FFF7FB" alt="PyCharm"/>
 
