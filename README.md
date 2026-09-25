@@ -31,17 +31,9 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/isadora-couto">
-<img src="https://img.shields.io/badge/LINKEDIN-FFF7FB?style=for-the-badge&logo=linkedin&logoColor=D98FB3&labelColor=FFF7FB"/>
-</a>
-
-<a href="mailto:isadoracoutosoares@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-FFF7FB?style=for-the-badge&logo=gmail&logoColor=D98FB3&labelColor=FFF7FB"/>
-</a>
-
-<a href="https://www.instagram.com/thvdora/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FFF7FB?style=for-the-badge&logo=instagram&logoColor=D98FB3&labelColor=FFF7FB"/>
-</a>
+<a href="https://www.linkedin.com/in/isadora-couto"><img src="./assets/linkedin-badge.svg" height="28" alt="LinkedIn"/></a>
+<a href="mailto:isadoracoutosoares@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FFF7FB?style=for-the-badge&logo=gmail&logoColor=D98FB3&labelColor=FFF7FB" alt="Gmail"/></a>
+<a href="https://www.instagram.com/thvdora/"><img src="https://img.shields.io/badge/INSTAGRAM-FFF7FB?style=for-the-badge&logo=instagram&logoColor=D98FB3&labelColor=FFF7FB" alt="Instagram"/></a>
 
 <br><br>
 
