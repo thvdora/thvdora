@@ -17,10 +17,6 @@
 
 <br><br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=thvdora&label=PLAYER+VISITS&color=7e22ce&style=for-the-badge"
-/>
-
 </div>
 
 <div align="center">
@@ -30,10 +26,6 @@
 </div>
 
 <br>
-
-> 🧠 I'm especially interested in the intersection between **Computer Science, Artificial Intelligence and Neuroscience**.
->
-> 🎮 I enjoy learning through projects, solving problems and turning ideas into real systems.
 
 
 
