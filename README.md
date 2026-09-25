@@ -11,7 +11,7 @@
 
 <img
   width="120"
-  src="https://ibb.co/67zfLZb5"
+  src="https://raw.githubusercontent.com/thvdora/thvdora/main/assets/personagem_animada.gif"
 />
 
 <br>
