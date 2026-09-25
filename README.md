@@ -11,7 +11,7 @@
 
 <img
   width="120"
-  src="https://imgur.com/a/r32qMcR"
+  src="https://imgur.com/I5euXdx"
 />
 
 <br>
