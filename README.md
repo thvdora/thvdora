@@ -27,6 +27,22 @@
 
 <div align="center">
 
+# `TOOLS I USE`
+
+<br>
+
+<img src="https://img.shields.io/badge/VS%20CODE-FFF7FB?style=for-the-badge&logo=visualstudiocode&logoColor=D98FB3&labelColor=FFF7FB" alt="VS Code"/>
+<img src="https://img.shields.io/badge/NOTION-FFF7FB?style=for-the-badge&logo=notion&logoColor=D98FB3&labelColor=FFF7FB" alt="Notion"/>
+<img src="https://img.shields.io/badge/PYCHARM-FFF7FB?style=for-the-badge&logo=pycharm&logoColor=D98FB3&labelColor=FFF7FB" alt="PyCharm"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
 # `CONNECT WITH PLAYER`
 
 <br>
