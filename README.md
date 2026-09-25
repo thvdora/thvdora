@@ -12,7 +12,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&duration=2500&pause=800&color=D98FB3&center=true&vCenter=true&width=850&lines=%3E+PLAYER+ONE+HAS+ENTERED+THE+GAME...;%3E+ISADORA+SOARES;%3E+COMPUTER+SCIENCE+STUDENT+%40+FIAP;%3E+AI+%2B+MACHINE+LEARNING;%3E+EXPLORING+NEUROTECHNOLOGY;%3E+WELCOME+TO+MY+GITHUB!"
+  src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&duration=2500&pause=800&color=D98FB3&center=true&vCenter=true&width=850&lines=%3E+PLAYER+ONE+HAS+ENTERED+THE+GAME...;%3E+ISADORA+COUTO;%3E+COMPUTER+SCIENCE+STUDENT+%40+FIAP;%3E+AI+%2B+MACHINE+LEARNING;%3E+EXPLORING+NEUROTECHNOLOGY;%3E+WELCOME+TO+MY+GITHUB!"
 />
 
 <br><br>
