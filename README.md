@@ -4,10 +4,9 @@
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFF7FB,35:FDEBF3,70:F9D6E7,100:F3B8D2&text=THVDORA&fontColor=9A5E79&fontSize=48&fontAlignY=35&animation=fadeIn"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFF7FB,35:FDEBF3,70:F9D6E7,100:F3B8D2&fontColor=9A5E79"/>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=38&duration=999999&pause=999999&color=9A5E79&center=true&vCenter=true&width=850&lines=THVDORA" alt="THVDORA"/>
 
 <br>
 
@@ -17,7 +16,7 @@
 
 <br><br>
 
-`CODE` • `AI` • `MACHINE LEARNING` • `CLOUD` • `NEUROTECH`
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=11&duration=999999&pause=999999&color=9A5E79&center=true&vCenter=true&width=850&lines=CODE+%E2%80%A2+AI+%E2%80%A2+MACHINE+LEARNING+%E2%80%A2+CLOUD+%E2%80%A2+NEUROTECH" alt="Code • AI • Machine Learning • Cloud • Neurotech"/>
 
 </div>
 
@@ -27,7 +26,7 @@
 
 <div align="center">
 
-# `TOOLS I USE`
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&duration=999999&pause=999999&color=D98FB3&center=true&vCenter=true&width=500&lines=TOOLS+I+USE" alt="TOOLS I USE"/>
 
 <br>
 
@@ -43,7 +42,7 @@
 
 <div align="center">
 
-# `CONNECT WITH PLAYER`
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&duration=999999&pause=999999&color=D98FB3&center=true&vCenter=true&width=600&lines=CONNECT+WITH+PLAYER" alt="CONNECT WITH PLAYER"/>
 
 <br>
 
@@ -53,12 +52,7 @@
 
 <br><br>
 
-```text
-♡ Thanks for visiting my profile.
-♡ New quests are always loading...
-
-PRESS START TO CONTINUE_
-```
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=11&duration=999999&pause=999999&color=D98FB3&center=true&vCenter=true&width=850&lines=%E2%99%A1+THANKS+FOR+VISITING+MY+PROFILE.;%E2%99%A1+NEW+QUESTS+ARE+ALWAYS+LOADING...;PRESS+START+TO+CONTINUE_" alt="Thanks for visiting my profile"/>
 
 <br>
 
