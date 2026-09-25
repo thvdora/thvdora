@@ -21,7 +21,16 @@
 
 <br><br>
 
-<img src="./assets/pink-gamepad.svg" height="18" alt="Pink gamepad" align="center"/> &nbsp; I enjoy learning through projects, solving problems and turning ideas into real systems.
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="./assets/pink-gamepad.svg" width="26" alt="Pink gamepad"/>
+    </td>
+    <td valign="middle">
+      &nbsp; I enjoy learning through projects, solving problems and turning ideas into real systems.
+    </td>
+  </tr>
+</table>
 
 </div>
 
