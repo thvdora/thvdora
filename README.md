@@ -5,12 +5,11 @@
 <div align="center">
 
 <img
-  src="./assets/pixel_sprint_readme.gif"
-  alt="Pixel art character running and waving"
-  width="500"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFF7FB,35:FDEBF3,70:F9D6E7,100:F3B8D2&text=THVDORA&fontColor=9A5E79&fontSize=48&fontAlignY=35&animation=fadeIn"
 />
 
-<br><br>
+<br>
 
 <img
   src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&duration=2500&pause=800&color=D98FB3&center=true&vCenter=true&width=850&lines=%3E+PLAYER+ONE+HAS+ENTERED+THE+GAME...;%3E+ISADORA+SOARES;%3E+COMPUTER+SCIENCE+STUDENT+%40+FIAP;%3E+AI+%2B+MACHINE+LEARNING;%3E+EXPLORING+NEUROTECHNOLOGY;%3E+WELCOME+TO+MY+GITHUB!"
