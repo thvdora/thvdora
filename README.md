@@ -31,9 +31,9 @@
 
 <br>
 
-<img src="./assets/vscode-badge.svg" height="28" alt="VS Code"/>
-<img src="https://img.shields.io/badge/NOTION-FFF7FB?style=for-the-badge&logo=notion&logoColor=D98FB3&labelColor=FFF7FB" height="28" alt="Notion"/>
-<img src="https://img.shields.io/badge/PYCHARM-FFF7FB?style=for-the-badge&logo=pycharm&logoColor=D98FB3&labelColor=FFF7FB" height="28" alt="PyCharm"/>
+<img src="https://img.shields.io/badge/VS%20CODE-21262D?style=for-the-badge&logo=visualstudiocode&logoColor=D98FB3&labelColor=21262D" height="28" alt="VS Code"/>
+<img src="https://img.shields.io/badge/NOTION-21262D?style=for-the-badge&logo=notion&logoColor=D98FB3&labelColor=21262D" height="28" alt="Notion"/>
+<img src="https://img.shields.io/badge/PYCHARM-21262D?style=for-the-badge&logo=pycharm&logoColor=D98FB3&labelColor=21262D" height="28" alt="PyCharm"/>
 
 </div>
 
@@ -47,9 +47,9 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/isadora-couto"><img src="./assets/linkedin-badge.svg" height="28" alt="LinkedIn"/></a>
-<a href="mailto:isadoracoutosoares@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FFF7FB?style=for-the-badge&logo=gmail&logoColor=D98FB3&labelColor=FFF7FB" height="28" alt="Gmail"/></a>
-<a href="https://www.instagram.com/thvdora/"><img src="https://img.shields.io/badge/INSTAGRAM-FFF7FB?style=for-the-badge&logo=instagram&logoColor=D98FB3&labelColor=FFF7FB" height="28" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/isadora-couto"><img src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logo=linkedin&logoColor=D98FB3&labelColor=21262D" height="28" alt="LinkedIn"/></a>
+<a href="mailto:isadoracoutosoares@gmail.com"><img src="https://img.shields.io/badge/GMAIL-21262D?style=for-the-badge&logo=gmail&logoColor=D98FB3&labelColor=21262D" height="28" alt="Gmail"/></a>
+<a href="https://www.instagram.com/thvdora/"><img src="https://img.shields.io/badge/INSTAGRAM-21262D?style=for-the-badge&logo=instagram&logoColor=D98FB3&labelColor=21262D" height="28" alt="Instagram"/></a>
 
 <br><br>
 
