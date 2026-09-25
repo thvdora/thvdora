@@ -23,28 +23,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-# 👾 `PLAYER PROFILE`
-
-</div>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                         PLAYER DATA                          ║
-╠══════════════════════════════════════════════════════════════╣
-║ NAME        > Isadora Soares                                ║
-║ CLASS       > Computer Science Student                      ║
-║ GUILD       > FIAP                                          ║
-║ LOCATION    > São Paulo, Brazil                             ║
-║ MAIN QUEST  > Become an AI / ML Engineer                    ║
-║ SIDE QUEST  > Explore Neurotechnology                       ║
-║ STATUS      > Learning...                                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
 `CODE` • `AI` • `MACHINE LEARNING` • `CLOUD` • `NEUROTECH`
