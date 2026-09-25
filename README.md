@@ -11,7 +11,7 @@
 
 <img
   width="120"
-  src="https://imgur.com/I5euXdx"
+  src="https://kommodo.ai/i/boS8RiW40ujeCGqaKeze"
 />
 
 <br>
