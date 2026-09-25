@@ -6,20 +6,16 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090A14,40:17112B,70:33165B,100:6D28D9&text=THVDORA&fontColor=FFFFFF&fontSize=48&fontAlignY=35&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFF7FB,35:FDEBF3,70:F9D6E7,100:F3B8D2&text=THVDORA&fontColor=9A5E79&fontSize=48&fontAlignY=35&animation=fadeIn"
 />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=850&lines=%3E+PLAYER+ONE+HAS+ENTERED+THE+GAME...;%3E+ISADORA+SOARES;%3E+COMPUTER+SCIENCE+STUDENT+%40+FIAP;%3E+AI+%2B+MACHINE+LEARNING;%3E+EXPLORING+NEUROTECHNOLOGY;%3E+WELCOME+TO+MY+GITHUB!"
+  src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&duration=2500&pause=800&color=D98FB3&center=true&vCenter=true&width=850&lines=%3E+PLAYER+ONE+HAS+ENTERED+THE+GAME...;%3E+ISADORA+SOARES;%3E+COMPUTER+SCIENCE+STUDENT+%40+FIAP;%3E+AI+%2B+MACHINE+LEARNING;%3E+EXPLORING+NEUROTECHNOLOGY;%3E+WELCOME+TO+MY+GITHUB!"
 />
 
 <br><br>
-
-</div>
-
-<div align="center">
 
 `CODE` • `AI` • `MACHINE LEARNING` • `CLOUD` • `NEUROTECH`
 
@@ -27,33 +23,31 @@
 
 <br>
 
-
-
 ---
 
 <div align="center">
 
-# 📡 `CONNECT WITH PLAYER`
+# 🎀 `CONNECT WITH PLAYER`
 
 <br>
 
 <a href="https://www.linkedin.com/in/isadora-couto">
-<img src="https://img.shields.io/badge/LINKEDIN-10121B?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFF7FB?style=for-the-badge&logo=linkedin&logoColor=D98FB3&labelColor=FFF7FB"/>
 </a>
 
 <a href="mailto:isadoracoutosoares@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-10121B?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/GMAIL-FFF7FB?style=for-the-badge&logo=gmail&logoColor=D98FB3&labelColor=FFF7FB"/>
 </a>
 
 <a href="https://www.instagram.com/thvdora/">
-<img src="https://img.shields.io/badge/INSTAGRAM-10121B?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FFF7FB?style=for-the-badge&logo=instagram&logoColor=D98FB3&labelColor=FFF7FB"/>
 </a>
 
 <br><br>
 
 ```text
-> Thanks for visiting my profile.
-> New quests are always loading...
+♡ Thanks for visiting my profile.
+♡ New quests are always loading...
 
 PRESS START TO CONTINUE_
 ```
@@ -62,7 +56,7 @@ PRESS START TO CONTINUE_
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:33165B,100:090A14"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F3B8D2,50:F9D6E7,100:FFF7FB"
 />
 
 </div>
