@@ -9,6 +9,11 @@
   src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFF7FB,35:FDEBF3,70:F9D6E7,100:F3B8D2&text=THVDORA&fontColor=9A5E79&fontSize=48&fontAlignY=35&animation=fadeIn"
 />
 
+<img
+  width="120"
+  src="https://imgur.com/a/r32qMcR"
+/>
+
 <br>
 
 <img
