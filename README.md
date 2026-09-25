@@ -11,7 +11,7 @@
 
 <img
   width="120"
-  src="https://raw.githubusercontent.com/thvdora/thvdora/main/assets/personagem_animada.gif"
+  src=""
 />
 
 <br>
