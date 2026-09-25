@@ -27,7 +27,7 @@
 
 <div align="center">
 
-# 🎀 `CONNECT WITH PLAYER`
+# `CONNECT WITH PLAYER`
 
 <br>
 
