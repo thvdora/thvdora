@@ -11,7 +11,7 @@
 
 <img
   width="120"
-  src="https://i.pinimg.com/originals/52/89/da/5289da4a69e8078746a925c2bd1229be.gif"
+  src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif"
 />
 
 <br>
