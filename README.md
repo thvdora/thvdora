@@ -19,6 +19,10 @@
 
 `CODE` • `AI` • `MACHINE LEARNING` • `CLOUD` • `NEUROTECH`
 
+<br><br>
+
+<img src="./assets/pink-gamepad.svg" height="18" alt="Pink gamepad" align="center"/> &nbsp; I enjoy learning through projects, solving problems and turning ideas into real systems.
+
 </div>
 
 <br>
