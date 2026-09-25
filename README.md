@@ -39,7 +39,20 @@
 
 <div align="center">
 
-# 🎯 `MAIN QUEST`
+# 🎮 `GAME MENU`
+
+<sub>Choose a section to open ↓</sub>
+
+</div>
+
+<br>
+
+<details>
+<summary><b>🎯 MAIN QUEST — AI / ML ENGINEER</b></summary>
+
+<br>
+
+<div align="center">
 
 ### `BECOME AN AI / MACHINE LEARNING ENGINEER`
 
@@ -55,21 +68,20 @@ Deep Learning              ██░░░░░░░░
 Neurotechnology            ██░░░░░░░░
 ```
 
----
+</details>
+
+<br>
+
+<details>
+<summary><b>🕹️ SKILL TREE — Languages & Tools</b></summary>
+
+<br>
 
 <div align="center">
-
-# 🕹️ `SKILL TREE`
 
 ### `LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark"/>
-
-<br><br>
-
-### `DATA / AI`
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
 
 <br><br>
 
@@ -85,166 +97,16 @@ Neurotechnology            ██░░░░░░░░
 
 </div>
 
----
-
-<div align="center">
-
-# ⚔️ `CURRENT QUESTS`
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI / MACHINE LEARNING
-
-```text
-[✓] Python
-[✓] NumPy
-[✓] Pandas
-[✓] Data Analysis
-[ ] Machine Learning
-[ ] Neural Networks
-[ ] PyTorch
-[ ] Deep Learning
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 COMPUTER SCIENCE
-
-```text
-[✓] Programming Logic
-[✓] Python
-[✓] C++ Fundamentals
-[ ] Algorithms
-[ ] Data Structures
-[ ] Computer Architecture
-[ ] Software Engineering
-[ ] Cloud Computing
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🧬 `SPECIAL QUEST`
-
-## `AI × NEUROSCIENCE`
-
-</div>
-
-```text
-                        EEG SIGNAL
-                            │
-                            ▼
-                   ┌────────────────┐
-                   │     PYTHON     │
-                   └───────┬────────┘
-                           │
-                           ▼
-                   ┌────────────────┐
-                   │ DATA PROCESSING│
-                   │ NumPy / SciPy  │
-                   └───────┬────────┘
-                           │
-                           ▼
-                   ┌────────────────┐
-                   │ MACHINE        │
-                   │ LEARNING       │
-                   └───────┬────────┘
-                           │
-                           ▼
-                          🧠
-                    NEUROTECHNOLOGY
-```
-
-<div align="center">
-
-Exploring how computing can be applied to understand and interact with the human brain.
-
-</div>
-
-<br>
-
-- 🧠 Brain signal analysis
-- ⚡ EEG processing
-- 🤖 Artificial Intelligence
-- 🧬 Computational Neuroscience
-- 👁 Computer Vision
-- 🩺 Technology applied to health
-
----
-
-<div align="center">
-
-# 📂 `PROJECT QUEST LOG`
-
-</div>
-
-<details>
-<summary><b>🧠 AI & MACHINE LEARNING QUESTS</b></summary>
-
-<br>
-
-```text
-[ ] EEG signal classifier
-[ ] Machine Learning pipeline
-[ ] Artificial neuron simulator
-[ ] Computer Vision project
-[ ] Neural network experiments
-[ ] AI applied to neuroscience
-```
-
 </details>
 
 <br>
 
 <details>
-<summary><b>🎮 PROGRAMMING QUESTS</b></summary>
+<summary><b>💾 PLAYER INVENTORY — Tech Stack</b></summary>
 
 <br>
-
-```text
-[ ] Python automation tools
-[ ] File organizer bot
-[ ] Small Python games
-[ ] C++ projects
-[ ] Algorithm challenges
-```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🌎 REAL WORLD TECHNOLOGY</b></summary>
-
-<br>
-
-```text
-[ ] AI-powered smart traffic system
-[ ] IoT projects
-[ ] Cloud solutions
-[ ] Technology for sustainability
-[ ] AI applied to real-world problems
-```
-
-</details>
-
----
 
 <div align="center">
-
-# 💾 `PLAYER INVENTORY`
-
-<br>
 
 <img src="https://img.shields.io/badge/PYTHON-10121B?style=for-the-badge&logo=python&logoColor=C084FC"/>
 <img src="https://img.shields.io/badge/C++-10121B?style=for-the-badge&logo=cplusplus&logoColor=C084FC"/>
@@ -256,13 +118,16 @@ Exploring how computing can be applied to understand and interact with the human
 
 </div>
 
----
-
-<div align="center">
-
-# 📊 `PLAYER STATS`
+</details>
 
 <br>
+
+<details>
+<summary><b>📊 PLAYER STATS — GitHub Activity</b></summary>
+
+<br>
+
+<div align="center">
 
 <img
   height="170"
@@ -282,13 +147,16 @@ Exploring how computing can be applied to understand and interact with the human
 
 </div>
 
----
-
-<div align="center">
-
-# 🐍 `CONTRIBUTION GAME`
+</details>
 
 <br>
+
+<details>
+<summary><b>🐍 CONTRIBUTION GAME — Play the Snake</b></summary>
+
+<br>
+
+<div align="center">
 
 <picture>
 <source
@@ -307,47 +175,26 @@ Exploring how computing can be applied to understand and interact with the human
 
 </div>
 
----
+</details>
 
-<div align="center">
+<br>
 
-# 🏆 `ACHIEVEMENTS UNLOCKED`
+<details>
+<summary><b>🏆 ACHIEVEMENTS UNLOCKED</b></summary>
 
-</div>
-
-```text
-╔════════════════════════════════════════════════════╗
-║                ACHIEVEMENT LIST                    ║
-╠════════════════════════════════════════════════════╣
-║ [✓] Computer Science @ FIAP                        ║
-║ [✓] AWS Cloud Foundations                         ║
-║ [✓] Python Programming                            ║
-║ [✓] C++ Journey Started                           ║
-║ [✓] English                                       ║
-║ [✓] AI / Machine Learning Journey                 ║
-║ [✓] Building Projects                             ║
-╚════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-# 🖥️ `SYSTEM STATUS`
+<br>
 
 ```text
-ISADORA@GITHUB:~$
-
-> studying computer science...
-> learning machine learning...
-> building projects...
-> exploring neuroscience...
-> developing new skills...
-
-SYSTEM STATUS: ONLINE █
+[✓] Computer Science @ FIAP
+[✓] AWS Cloud Foundations
+[✓] Python Programming
+[✓] C++ Journey Started
+[✓] English
+[✓] AI / Machine Learning Journey
+[✓] Building Projects
 ```
 
-</div>
+</details>
 
 ---
 
