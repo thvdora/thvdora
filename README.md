@@ -17,7 +17,7 @@
 
 <br><br>
 
-`CODE` • `AI` • `MACHINE LEARNING` • `CLOUD` • `NEUROTECH`
+`CODE` • `AI` • `MACHINE LEARNING` • `AWS CLOUD` • `NEUROTECH`
 
 <br><br>
 
